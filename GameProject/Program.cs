@@ -62,7 +62,7 @@ namespace GameProject
             gamerManager.Save(gamer2);
 
 
-            GameSaleManager sales = new GameSaleManager();
+            ISaleService sales = new GameSaleManager();
 
             Console.WriteLine();
             sales.Sell(game1,gamer1);
