@@ -1,5 +1,5 @@
 
-*Bu console projesinde oyun satışı yapmak istiyoruz. Soyut nesneleri(Interface, Abstract) verimli bir şekilde kullanarak yeni oyuncu, satış ve kampanya yönetimini kullanarak bir takım operasyonlar simüle edilmiştir. 
+*Bu console projesinde oyun satışı yapmak istiyoruz. Soyut nesneleri(Interface, Abstract) verimli bir şekilde kullanarak yeni oyuncu, satış ve kampanya yönetimleriyle bir takım operasyonlar simüle edilmiştir. 
 
 *Sisteme yeni üye eklerken Mernis doğrulaması entegre edilmiştir. 
 
