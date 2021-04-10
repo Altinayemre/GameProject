@@ -57,9 +57,9 @@ namespace GameProject
 
             BaseGamerManager gamerManager = new GamerManager(new GamerCheckManager());
 
-            gamerManager.Save(gamer1);
+            gamerManager.Add(gamer1);
             Console.WriteLine();
-            gamerManager.Save(gamer2);
+            gamerManager.Add(gamer2);
 
 
             ISaleService sales = new GameSaleManager();
